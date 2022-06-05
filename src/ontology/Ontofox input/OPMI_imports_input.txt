@@ -5,8 +5,9 @@ http://purl.obolibrary.org/obo/omop2opmi/imports/OPMI_imports.owl
 OPMI
 
 [Low level source term URIs]
+
 http://purl.obolibrary.org/obo/NCBITaxon_9606 #homo sapiens or human 
-subClassOf http://purl.obolibrary.org/obo/BFO_0000040 #material entity
+# subClassOf http://purl.obolibrary.org/obo/BFO_0000040 #material entity
 
 # terms for Person table
 # http://purl.obolibrary.org/obo/NCBITaxon_9606 # person; homo sapiens
@@ -166,7 +167,6 @@ http://purl.obolibrary.org/obo/IAO_0000030 # information content entity
 # terms for Observation_period table
 http://purl.obolibrary.org/obo/OPMI_0000522 # provenance of observation record 
 
-
 #diagnosis related terms
 http://purl.obolibrary.org/obo/OGMS_0000073 #diagnosis
 http://purl.obolibrary.org/obo/OPMI_0000603
@@ -185,8 +185,8 @@ http://purl.obolibrary.org/obo/OPMI_0000612
 http://purl.obolibrary.org/obo/OPMI_0000617
 http://purl.obolibrary.org/obo/OPMI_0000604 
 
-http://purl.obolibrary.org/obo/OBI_0000094 #material processing, used for device 
-http://purl.obolibrary.org/obo/DRON_00000005 #drug product
+# http://purl.obolibrary.org/obo/OBI_0000094 #material processing, used for device 
+# http://purl.obolibrary.org/obo/DRON_00000005 #drug product
 # http://purl.obolibrary.org/obo/DRON_00000028
 # http://purl.obolibrary.org/obo/DRON_00000001
 # http://purl.obolibrary.org/obo/OBI_0000456
@@ -194,6 +194,12 @@ http://purl.obolibrary.org/obo/DRON_00000005 #drug product
 # http://purl.obolibrary.org/obo/OBI_0000576
 # http://purl.obolibrary.org/obo/OPMI_0000425 # self-replication
 # http://purl.obolibrary.org/obo/OPMI_0000426 # organic chemical entity
+
+http://purl.obolibrary.org/obo/OPMI_0000275 #electronic health record
+includeAllChildren 
+
+http://purl.obolibrary.org/obo/OPMI_0000512 # provenance of record
+includeAllChildren 
 
 [Top level source term URIs and target direct superclass URIs]
 http://purl.obolibrary.org/obo/BFO_0000001 #entity

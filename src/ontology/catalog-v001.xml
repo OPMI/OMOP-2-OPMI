@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/omop2opmi/imports/OPMI_imports.owl" uri="imports/OPMI_imports.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1653980885404" name="http://purl.obolibrary.org/obo/omop2opmi.owl" uri="Omop2Opmi-edit.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1653980885404" name="http://purl.obolibrary.org/obo/omop2opmi/imports/OPMI_imports.owl" uri="imports/OPMI_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1654443312255" name="duplicate:http://purl.obolibrary.org/obo/omop2opmi.owl" uri="Omop2Opmi-edit.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1654443312255" name="duplicate:http://purl.obolibrary.org/obo/omop2opmi.owl" uri="Omop2Opmi-merged.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1654443312255" name="duplicate:http://purl.obolibrary.org/obo/omop2opmi/imports/OPMI_imports.owl" uri="imports/OPMI_imports-old.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1654443312255" name="duplicate:http://purl.obolibrary.org/obo/omop2opmi/imports/OPMI_imports.owl" uri="imports/OPMI_imports.owl"/>
     </group>
 </catalog>
