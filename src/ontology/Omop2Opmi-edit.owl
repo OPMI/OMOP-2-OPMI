@@ -18,12 +18,12 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/omop2opmi/imports/OPMI_imports.owl"/>
         <dc:creator xml:lang="en">Long Tran</dc:creator>
         <dc:creator xml:lang="en">Yongqun &quot;Oliver&quot; He (YH)</dc:creator>
-        <dc:date xml:lang="en">6-5-2022</dc:date>
+        <dc:date xml:lang="en">8-7-2022</dc:date>
         <dc:description xml:lang="en">Omop2Opmi is a biomedical ontology that maps and converts OMOP CDM elements to an OBO ontology format. The OPMI is used as the primary ontology platform for the mapping and conversion. </dc:description>
         <dc:format xml:lang="en">OWL-DL</dc:format>
         <dc:subject xml:lang="en">Omop2Opmi: A biomedical ontology transforming OMOP CDM to OPMI ontology representation</dc:subject>
         <dc:title xml:lang="en">Omop2Opmi</dc:title>
-        <owl:versionInfo xml:lang="en">Vision Release: 1.0.02</owl:versionInfo>
+        <owl:versionInfo xml:lang="en">Vision Release: 1.0.20</owl:versionInfo>
     </owl:Ontology>
     
 

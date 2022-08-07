@@ -206,13 +206,12 @@ http://purl.obolibrary.org/obo/BFO_0000001 #entity
 http://purl.obolibrary.org/obo/OPMI_0000426 #organic chemical entity
 
 [Source term retrieval setting]
-includeComputedIntermediates
-
-#includeAllIntermediates
+#includeComputedIntermediates
+includeAllIntermediates
 
 [Source annotation URIs]
-includeAllAxioms
+#includeAllAxioms
 
-#includeAllAxiomsRecursively
+includeAllAxiomsRecursively
 
 [Source annotation URIs to be excluded]
