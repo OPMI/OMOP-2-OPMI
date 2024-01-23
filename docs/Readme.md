@@ -9,3 +9,9 @@ Below is a description of the files deposited in this folder:
     - Provides a glimpse of how the mapping work is planned. 
     - Dark columns are how the tables are organized in OMOP CDM. 
     - Red columns are added on top of the existing framework to store definitions and their sources that will eventually be mapped in OPMI. 
+
+### Related links
+
+- OMOP CDM v5.4: https://ohdsi.github.io/CommonDataModel/cdm54.html#PERSON
+
+  
