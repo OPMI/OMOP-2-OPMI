@@ -9,6 +9,7 @@ OMOP-2-OPMI has also been used for different applications.
 
 ## Developers:
 
+- Saketh Sairam Boddapati
 - Long Nguyen Minh Tran, University of Michigan
 - Oliver He, University of Michigan
 
