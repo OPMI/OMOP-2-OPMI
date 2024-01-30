@@ -12,7 +12,7 @@ Below is a description of the files deposited in this folder:
 
 https://github.com/OPMI/OMOP-2-OPMI/blob/main/docs/Finalized%20Results%20for%20the%20OPMI%20Mapping
 
-This is the finalized results of the OPMI mapping. Each term was mapped to a term located in the OPMI domain. Any missing match is due to the term being absent in the OPMI domain
+This is the finalized results of the OPMI mapping. Each term was mapped to a term located in the OPMI domain. Any missing match is due to the term being absent in the OPMI domain.
 
 
 
